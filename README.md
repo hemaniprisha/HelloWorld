@@ -26,15 +26,11 @@ https://github.com/hemaniprisha/HelloWorld.git
 
 ## Project Structure
 
-app/
-├── java/
-│   └── com.example.helloworld2/
-│        └── MainActivity.java   # Main activity with button logic
-├── res/
-│   ├── drawable/r2d2.png        # Contains R2-D2 image
-│   ├── layout/activity_main.xml # UI layout (image, text, button)
-│   └── values/strings.xml       # App text resources
-└── AndroidManifest.xml
+- **app/java/com.example.helloworld2/MainActivity.java** – Main activity with button logic  
+- **app/res/drawable/r2d2.png** – R2-D2 image  
+- **app/res/layout/activity_main.xml** – UI layout (image, text, button)  
+- **app/res/values/strings.xml** – App text resources  
+- **app/AndroidManifest.xml** – App manifest file  
 
 ---
 
