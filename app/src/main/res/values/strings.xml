@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HelloWorld2</string>
+    <string name="PrishaIntro">Hello World! My name is Prisha! I love programming, android development, and I\'m a huge Star Wars fan.
+    Click the button down below for a classic Star Wars reference and meme :)
+
+    May the force be with you!</string>
+    <string name="ButtonText">Hello There!</string>
+</resources>
